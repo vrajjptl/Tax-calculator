@@ -1,9 +1,4 @@
 //This is a C program to check your eligibility to pay tax , calculate your personal income tax and save maximum tax legally
-//This C program is a part of mini project done by :-
-//Abhijit Zende
-//Viraj Patil
-//Vaibhav Patil
-//Shreyas Patil
 //Disclaimer :-
 //We are not a qualified professionals and we don't have a CA or relevant degree below program is completely made
 //by consulting information available at Income Tax department of India although our program is very reliable but proceed
